@@ -1,0 +1,6 @@
+[package]
+name = "read_fail"
+version = "0.1.0"
+authors = ["Thomas Lovett <tklovett@gmail.com>"]
+
+[dependencies]
